@@ -70,6 +70,7 @@ minutes, with no-code : Idea to design in an instant
 
 ## Text
 
+- https://www.scarlettpanda.com/  : Storytelling for children with image and audio
 - https://www.bedtimestory.ai/  : Craft wonderful bedtime stories – powered by AI
 - https://writesonic.com/ : Best AI Writer for Creating
 - https://www.compose.ai/ : Compose AI is a Chrome extension that cuts your writing time by 40% with AI-powered autocompletion & text generation.
